@@ -1,0 +1,11 @@
+{
+    "test": {
+        "input_title": "Überschrift eingeben"
+    },
+    "STAMMDATEN_SELECT_TITLE": {
+        "input_title": "Überschrift"
+    },
+    "undefined": {
+        "input_title": "marius"
+    }
+}
